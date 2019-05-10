@@ -1,0 +1,7 @@
+*.pyc
+doc/build/*
+*coverage*
+
+.doc
+.travis.yml
+.prospector.yml
